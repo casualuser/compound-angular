@@ -1,6 +1,6 @@
-# _Project_
+# CompoundJS+AngularJS
 
-_Description: What does this project do and who does it serve?_
+CompoundJS and AngularJS' bastard lovechild built upon a custom Yo (Yeoman) generator combined with CompoundJS's own native generators._
 
 ## Project Setup
 
@@ -57,9 +57,7 @@ _Examples of common tasks_
 compound-angular
 ================
 
-CompoundJS and AngularJS' bastard lovechild built 
-upon a custom Yo (Yeoman) generator combined with 
-CompoundJS's own native generators.
+
 
 The goal of this super project is to integrate Angular
 two-way data binding with Compound components using simply 
