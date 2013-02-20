@@ -1,3 +1,5 @@
+
+
 compound-angular
 ================
 
@@ -5,10 +7,10 @@ CompoundJS and AngularJS' bastard lovechild built
 upon a custom Yo (Yeoman) generator combined with 
 CompoundJS's own native generators.
 
-The goal of this super project is to integrate Angular code 
-with Compound components using simply a common generator 
-wrapper (this project's code) we'll name 'CompAng' for
-Yo using 'yo init CompoundAngular' 
+The goal of this super project is to integrate Angular
+two-way data binding with Compound components using simply 
+a common generator wrapper (this project's code) we'll name 
+'CompAng' for Yo using 'yo init CompoundAngular' 
 
 Our wrapper will start by executing a 'compound-init' bash
 script which installs the Compound app and handles all 
