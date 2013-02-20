@@ -33,13 +33,13 @@ _How do I run the project's automated tests?_
 1. `grunt build` -> < project >/dist
  
 
-### Sources
+## Sources
 - _Yeoman.io_
 - _CompoundJS.com_
 - _AngularJS.org_
 
 
-### License
+## Licenses
 MIT, BSD
 
 
