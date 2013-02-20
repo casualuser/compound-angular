@@ -1,4 +1,3 @@
-
 ![Coengular Logo](http://vodbro.com/coangular.png)
 
 Coangular is CompoundJS and AngularJS' spawn built on custom Yo (Yeoman) 
@@ -6,7 +5,7 @@ generator with CompoundJS's native generators.
 
 ## Project Setup
 
-_How do I, as a developer, start working on the project?_ 
+_How does a developer start working on a new project?_ 
 
 1. First run   > curl -L get.tachy0n.com | bash <YourApp> 
    
