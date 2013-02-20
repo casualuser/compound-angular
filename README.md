@@ -5,18 +5,19 @@ CompoundJS and AngularJS' bastard lovechild built
 upon a custom Yo (Yeoman) generator combined with 
 CompoundJS's own native generators.
 
-The goal of this project is to demonstrate Angular code 
-interacting with Compound components using simply 
-a common generator wrapper (this project's code) we'll
-name 'CompAng' in a branch of Yo using the format 'yo init CompAng'
+The goal of this super project is to integrate Angular code 
+with Compound components using simply a common generator 
+wrapper (this project's code) we'll name 'CompAng' for
+Yo using 'yo init CompoundAngular' 
 
-It will start with executing a 'compound-init' bash
-script which installs the Compound app and requirements.
+Our wrapper will start by executing a 'compound-init' bash
+script which installs the Compound app and handles all 
+its requirements.
 
-Next it will step through 'yo-init' another bash 
-script which will initialize the files and directories
-using ejs chrome and view partials having angular required
-and custom controllers. 
+Next it will step through 'yo-init' another bash script 
+which will initialize the app structure (component files & 
+directories) using our ejs chrome and view partials having 
+angular required and custom controllers ready for binding.
 
 
 Stay tuned. 
