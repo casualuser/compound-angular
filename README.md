@@ -23,19 +23,18 @@ and view partials having angular dependency injected to our custom
 controllers for model / ui binding. 
 (Client-side tier (Bower, Angular, PhantomJS))
 
-Depending on the components (Angular or Compound) being tested
-and developed for you'll need to use 'grunt test' or 'compound test'
-respectively. A cli coangular file will be provided to do integrated
-deployments borrowing from each project's deployment methodology to 
-achieve a Coangular web app / cluster. 
+## Deploying and Testing 
 
-## Testing
+Depending on the components being developed and tested: Angular or Compound, 
+you'll need to use 'grunt test' or 'compound test' respectively. 
+A coangular cli will be provided to do integrated deployments borrowing 
+from each project's deployment methodology to achieves the Coangular web app / cluster. 
 
 _How do I run the project's automated tests?_
 
 ### Unit Tests
 
-1. `yo test`
+1. `grunt test`
 
 ### Development Mode
 
@@ -49,6 +48,7 @@ _How do I run the project's automated tests?_
 ## Sources
 - _Yeoman.io_
 - _CompoundJS.com_
+- _twitter.github.com/bower/_
 - _AngularJS.org_
 
 
