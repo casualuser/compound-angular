@@ -16,13 +16,13 @@ bash script which installs the Compound app: an advanced Node-Express-based
 MVC framework. In order to fully initialize Angular components a default 
 component will exist called "YourApp" providing a JugglingDB ORM class, view 
 files, and crud logistics (controller & generic routes).
-(Middle and server tier) 
+(Dev layer: Middle and server tier) 
 
 3. Next another bash script 'yo-init' will initialize the Angular 
 app's structural component files & directories using our ejs chrome 
-and view partials while preparing for angular dependency injected 
-into the 'clienstide' Compound controller for model ui binding.
-(Client-side tier (Bower, Angular, PhantomJS))
+and view partials while preparing for Angular DI into the 'clienstide' 
+Compound controller for model ui binding.
+(Dev layer: Browser and presentation tier (Bower, Angular, PhantomJS))
 
 _While these two projects will coexist in the same root project 
 directory the Angular app will be in 'aapp/' and Compound in 'app/'
