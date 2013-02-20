@@ -8,7 +8,7 @@ architecture.
 
 _How does a developer start working on a new project?_ 
 
-1. First run   > curl -L get.tachy0n.com | bash <YourApp> 
+1. First run   > curl -L get.tachy0n.com | bash \<YourApp\>
    
 _Steps 2 and 3 comprise step 1's narrative_
 
