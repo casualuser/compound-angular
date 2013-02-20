@@ -1,7 +1,7 @@
 ![Coengular Logo](http://vodbro.com/coangular.png)
 
-Coangular is CompoundJS and AngularJS' spawn built on custom Yo (Yeoman) 
-generator with CompoundJS's native generators.
+Coangular is CompoundJS and AngularJS' crossbreed built on custom Yo (Yeoman) 
+generator with CompoundJS' native generators.
 
 ## Project Setup
 
