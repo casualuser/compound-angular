@@ -14,7 +14,7 @@ _Steps 2 and 3 comprise step 1's narrative_
 2. Our wrapper will start by executing our 'compound-init <YourApp>' 
 bash script which installs the Compound app: an advanced Node-Express-based 
 MVC framework. In order to fully initialize Angular components a default 
-component will exist called "YourApp" providing its orm class, view 
+component will exist called "YourApp" providing a JugglingDB ORM class, view 
 files, and crud logistics (controller, routes, etc).
 (Middle and server tier) 
 
