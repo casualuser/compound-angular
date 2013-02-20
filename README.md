@@ -6,11 +6,11 @@ workflow and fullstack architecture.
 
 ## Project Setup
 
-_How does a developer start working on a new project?_ 
+_How does a developer start working on a new project?_    
+_Note: Steps 2 and 3 annotate step 1's actions_
+
 
 1. First run   > curl -L get.tachy0n.com | bash \<YourApp\>
-   
-_Steps 2 and 3 comprise step 1's narrative_
 
 2. Our wrapper will start by executing our 'compound-init <YourApp>' 
 bash script which installs the Compound app: an advanced Node-Express-based 
