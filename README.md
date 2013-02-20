@@ -19,7 +19,7 @@ controllers for model / ui binding. (Client-side tier (Bower, Angular, PhantomJS
 
  Finally, dev / testing / deployment Coangular will use Grunt from Yo. 
 We'll factor in functionality of 'compound server' and 'compound test'
-with a new coangular grunt.js. 
+into an extended coangular grunt.js by Yo. 
 
 ## Testing
 
