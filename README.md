@@ -25,10 +25,13 @@ Compound controller for model ui binding.
 (Dev layer: Browser and presentation tier (Bower, Angular, PhantomJS))
 
 _While these two projects will coexist in the same root project 
-directory the Angular app will be in 'aapp/' and Compound in 'app/'
-to keep their code and assets seperated since they're similarly structured.
+directory the Angular app will be in 'aapp/' and Compound in 'capp/'
+to keep their code & assets seperate since they're similarly structured.
 As testing goes on with Coangular we may end up merging it into a single
-application directory but for now we're making them seperate to be safe._
+application directory but for now we're making them that way to be safe._
+
+_By default Coangular will use a Redis store you must perhaps install
+manually as a prerequiste. It'll come pre-configured for local-only, no pw, DB:2._
 
 
 ## Deploying and Testing 
