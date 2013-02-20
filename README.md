@@ -26,7 +26,7 @@ Compound controller for model ui binding.
 
 _While these two projects will coexist in the same root project 
 directory the Angular app will be in 'aapp/' and Compound in 'app/'
-to keep their code and assets seperated since their similarly structured.
+to keep their code and assets seperated since they're similarly structured.
 As testing goes on with Coangular we may end up merging it into a single
 application directory but for now we're making them seperate to be safe._
 
