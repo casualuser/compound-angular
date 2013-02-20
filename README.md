@@ -17,9 +17,11 @@ app structure (component files & directories) using our ejs chrome
 and view partials having angular dependency injected to our custom 
 controllers for model / ui binding. (Client-side tier (Bower, Angular, PhantomJS))
 
- Finally, dev / testing / deployment Coangular will use Grunt from Yo. 
+ Finally, dev, testing, and deployment Coangular will use Grunt from Yo. 
 We'll factor in functionality of 'compound server' and 'compound test'
-into an extended coangular grunt.js by Yo. 
+into an extended coangular grunt.js by Yo. Though either Compound or Grunt
+'server' and 'test' commands should work equally well, or not used at all 
+by just using node . directly for dev/testing. 
 
 ## Testing
 
