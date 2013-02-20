@@ -9,12 +9,13 @@ _How do I, as a developer, start working on the project?_
 1. First run #> curl -L get.tachy0n.com | bash
 
 2. Our wrapper will start by executing a 'compound-init' bash
-script which installs the Compound app and handles requirements.
+script which installs the Compound app: largelely an advanced 
+Node-Express based MVC framework. (Middle and server tier) 
 
-3. Next another bash script 'yo-init' will initialize the app 
-structure (component files & directories) using our ejs chrome 
+3. Next another bash script 'yo-init' will initialize the Angular 
+app structure (component files & directories) using our ejs chrome 
 and view partials having angular required and custom 
-controllers ready for binding.
+controllers ready for binding. (Client-side tier (Bower, Angular, PhantomJS)
 
 ## Testing
 
