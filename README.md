@@ -15,7 +15,7 @@ _Steps 2 and 3 comprise step 1's narrative_
 bash script which installs the Compound app: an advanced Node-Express-based 
 MVC framework. In order to fully initialize Angular components a default 
 component will exist called "YourApp" providing its orm class, view 
-files, and crud controller.
+files, and crud logistics (controller, routes, etc).
 (Middle and server tier) 
 
 3. Next another bash script 'yo-init' will initialize the Angular 
