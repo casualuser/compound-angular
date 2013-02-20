@@ -1,4 +1,3 @@
-
 # Coangular is CompoundJS coupled with AngularJS
 
 CompoundJS and AngularJS' bastard lovechild built on custom Yo (Yeoman) generator with CompoundJS's native generators.
@@ -27,7 +26,7 @@ _How do I run the project's automated tests?_
 
 ### Development Mode
 
-1. `yo server`
+1. `grunt server`
 
 ## Deploying
 
