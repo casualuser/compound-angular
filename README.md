@@ -25,7 +25,7 @@ into the 'clienstide' Compound controller for model ui binding.
 (Client-side tier (Bower, Angular, PhantomJS))
 
 _While these two projects will coexist in the same root project 
-directory the Angular app will be in 'aapp' and compound in 'app'
+directory the Angular app will be in 'aapp/' and Compound in 'app/'
 to keep their code and assets seperated since their similarly structured.
 As testing goes on with Coangular we may end up merging it into a single
 application directory but for now we're making them seperate to be safe._
