@@ -1,6 +1,6 @@
 # CompoundJS+AngularJS
 
-CompoundJS and AngularJS' bastard lovechild built upon a custom Yo (Yeoman) generator combined with CompoundJS's own native generators._
+CompoundJS and AngularJS' bastard lovechild built upon a custom Yo (Yeoman) generator combined with CompoundJS's own native generators.
 
 ## Project Setup
 
