@@ -14,8 +14,12 @@ Node-Express based MVC framework. (Middle and server tier)
 
 3. Next another bash script 'yo-init' will initialize the Angular 
 app structure (component files & directories) using our ejs chrome 
-and view partials having angular required and custom 
-controllers ready for binding. (Client-side tier (Bower, Angular, PhantomJS)
+and view partials having angular dependency injected to our custom 
+controllers for model / ui binding. (Client-side tier (Bower, Angular, PhantomJS))
+
+ Finally, dev / testing / deployment Coangular will use Grunt from Yo. 
+We'll factor in functionality of 'compound server' and 'compound test'
+with a new coangular grunt.js. 
 
 ## Testing
 
