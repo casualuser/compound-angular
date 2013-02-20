@@ -12,10 +12,10 @@ _How does a developer start working on a new project?_
 _Steps 2 and 3 comprise step 1's narrative_
 
 2. Our wrapper will start by executing our 'compound-init <YourApp>' 
-bash script which installs the Compound app: largelely an advanced 
-Node-Express-based MVC framework. In order to fully initialize 
-Angular components a default component will exist called "YourApp"
-providing its orm class, view files, and crud controller.
+bash script which installs the Compound app: an advanced Node-Express-based 
+MVC framework. In order to fully initialize Angular components a default 
+component will exist called "YourApp" providing its orm class, view 
+files, and crud controller.
 (Middle and server tier) 
 
 3. Next another bash script 'yo-init' will initialize the Angular 
