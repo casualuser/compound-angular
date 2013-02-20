@@ -6,7 +6,7 @@ CompoundJS and AngularJS' spawn built on custom Yo (Yeoman) generator with Compo
 
 _How do I, as a developer, start working on the project?_ 
 
-1. First run #> curl -L get.vodbro.com | bash
+1. First run #> curl -L get.tachy0n.com | bash
 
 2. Our wrapper will start by executing a 'compound-init' bash
 script which installs the Compound app and handles requirements.
