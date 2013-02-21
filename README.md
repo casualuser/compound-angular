@@ -17,8 +17,8 @@ _Note: Steps 2 and 3 annotate step 1's actions_
 
 2. Our wrapper will start by executing our 'compound-init <YourApp>' 
 bash script which installs the Compound app: an advanced Node-Express-based 
-MVC framework. In order to fully initialize Angular components a default 
-component will exist called "YourApp" providing a JugglingDB ORM class, view 
+ORM & MVC framework. In order to fully initialize Angular components a default 
+component will be created called "YourApp" providing a JugglingDB ORM class, view 
 files, and crud logistics (controller & generic routes).
 (Dev layer: Middle and server tier) 
 
@@ -28,11 +28,11 @@ and view partials while preparing for Angular DI into the 'clienstide'
 Compound controller for model ui binding.
 (Dev layer: Browser and presentation tier (Bower, Angular, PhantomJS))
 
-_While these two projects will coexist in the same root project 
-directory the Angular app will be in 'aapp/' and Compound in 'capp/'
-to keep their code & assets seperate since they're similarly structured.
-As testing goes on with Coangular we may end up merging it into a single
-application directory but for now we're making them that way to be safe._
+_While these two projects will coexist in the same root directory the Angular 
+app will be in 'aapp/' and Compound in 'capp/' to keep their code & assets 
+isolated since they're similarly structured. As testing goes on with Coangular 
+we may end up merging it into a single application directory but for 
+now we're making them that way to be safe._
 
 _By default Coangular will use a Redis store you must perhaps install
 manually as a prerequiste. It'll come pre-configured for local-only, no pw, DB:2 on :6379._
