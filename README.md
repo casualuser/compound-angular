@@ -3,8 +3,9 @@
 Coangular is a Compound and Angular crossbreed of Yo (Yeoman) 
 and Compound generators for a hybrid MVC-MVVM workflow & fullstack.
 
-Our goal is to use underlying these projects as-is and perhaps
-monkey patching code if necessary. 
+Our goal is to use these underlying projects as-is, and perhaps
+monkey patching code if necessary, in order to get a hybrid 
+stack rolling.
 
 ## Project Setup
 
