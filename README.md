@@ -31,7 +31,7 @@ As testing goes on with Coangular we may end up merging it into a single
 application directory but for now we're making them that way to be safe._
 
 _By default Coangular will use a Redis store you must perhaps install
-manually as a prerequiste. It'll come pre-configured for local-only, no pw, DB:2._
+manually as a prerequiste. It'll come pre-configured for local-only, no pw, DB:2 on :6379._
 
 
 ## Deploying and Testing 
