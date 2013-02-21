@@ -1,8 +1,7 @@
 ![Coengular Logo](http://vodbro.com/coangular.png)
 
 Coangular is a CompoundJS and AngularJS crossbreed built on Yo (Yeoman) 
-generators mixed with CompoundJS' generators to create a hybrid MVC-MVVM
-workflow and fullstack architecture.
+and CompoundJS generators enabling a hybrid MVC-MVVM workflow & fullstack.
 
 ## Project Setup
 
